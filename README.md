@@ -12,3 +12,21 @@ This workshop is broadly focused, and considers all approaches to analyzing smar
 
 The workshop aims to bring researchers and practitioners together and will promote open and reproducible research. Papers improving existing tools or proposing new ones are encouraged.
 
+----------------------------------------
+
+The workshop will be co-located with [ISSTA 2020](https://conf.researchr.org/home/issta-2020).
+
+----------------------------------------
+
+**Organization**
+
+Co-chairs:
+* Josselin Feist, Trail of Bits
+* Gustavo Grieco, Trail of Bits
+* Alex Groce, Northern Arizona University
+
+Program committee: TBA
+
+----------------------------------------
+
+Papers should be submitted in ACM Conference format, via easychair (link to come).
