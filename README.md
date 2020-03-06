@@ -31,6 +31,6 @@ Program committee: TBA
 
 **Submission Information**
 
-Papers should be submitted in ACM Conference format, and are limited to 8 pages, including references.  Papers can be submitted via [EasyChair](https://easychair.org/conferences/?conf=wosca20).  We particularly welcome papers focused on practical, open source tools for contract analysis.
+Papers should be submitted in ACM Conference format, and are limited to 8 pages, including references.  Papers can be submitted via [EasyChair](https://easychair.org/conferences/?conf=wosca20).  Submission is not blinded.  We particularly welcome papers focused on practical, open source tools for contract analysis.
 
 The firm deadline for all submissions is **FRIDAY, MAY 22, 2020**.
