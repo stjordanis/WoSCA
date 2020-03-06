@@ -1,4 +1,4 @@
-## 1st International Workshop on Smart Contract Analysis
+## 1st International Workshop on Smart Contract Analysis (WoSCA 2020)
 
 Smart contracts are versatile instruments that can not only facilitate and verify transactions in financial services, but also track the movement of physical goods and intellectual property. Security and correctness are essential for smart contract technology, because contracts possess the authority to allocate high-value resources between complex systems and are, for the most part, autonomous. Smart contracts have been the targets of widely publicized attacks, some successful in inflicting considerable financial damage.  The workshop will include an invited talk from a prominent smart contract practitioner or security researcher.
 
@@ -29,4 +29,8 @@ Program committee: TBA
 
 ----------------------------------------
 
-Papers should be submitted in ACM Conference format, via easychair (link to come).
+**Submission Information**
+
+Papers should be submitted in ACM Conference format, and are limited to 8 pages, including references.  Papers can be submitted via [EasyChair](https://easychair.org/conferences/?conf=wosca20).  We particularly welcome papers focused on practical, open source tools for contract analysis.
+
+The firm deadline for all submissions is **FRIDAY, MAY 22, 2020**.
