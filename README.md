@@ -25,7 +25,15 @@ Co-chairs:
 * Gustavo Grieco, Trail of Bits
 * Alex Groce, Northern Arizona University
 
-Program committee: TBA
+Program committee:
+* Elvira Albert, Universidad Complutense de Madrid
+* Diego Garbervetsky, Departamento de Computacion, FCEyn, UBA
+* Neville Grech, University of Athens and University of Malta
+* Bo Jiang, Beihang University
+* Shuvendu Lahiri, Microsoft Research
+* Hakjoo Oh, Korea University
+* Grigore Rosu, Runtime Verification/University of Illinois at Urbana-Champaign
+* Valentin Wustholz, ConsenSys Diligence
 
 ----------------------------------------
 
