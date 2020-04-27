@@ -18,6 +18,14 @@ The workshop will be co-located with [ISSTA 2020](https://conf.researchr.org/hom
 
 ----------------------------------------
 
+**IMPORTANT DATES**
+
+* May 22: Paper submission deadline
+* June 3: Paper notification
+* June 12: Camera-ready deadline
+
+----------------------------------------
+
 **Organization**
 
 Co-chairs:
@@ -40,5 +48,7 @@ Program committee:
 **Submission Information**
 
 Papers should be submitted in ACM Conference format, and are limited to 8 pages, including references.  Papers can be submitted via [EasyChair](https://easychair.org/conferences/?conf=wosca20).  Submission is not blinded.  We particularly welcome papers focused on practical, open source tools for contract analysis.
+
+Authors should use the ACM proceedings template https://www.acm.org/publications/proceedings-template with the sigconf option.
 
 The firm deadline for all submissions is **FRIDAY, MAY 22, 2020**.
