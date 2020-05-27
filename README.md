@@ -54,7 +54,7 @@ Papers should be submitted in ACM Conference format, and are limited to 8 pages,
 
 **SHORT PAPER OPTION**
 
-In addition to full 8 page papers, we also will accept "new idea" papers for promising ideas that might not have the experimental validation expected in a full paper.  These paper will receive the same presentation and discussion time as full papers, in order to focus the workshop on novel, but relatively unexplored, ideas.
+In addition to full 8 page papers, we also will accept New Ideas papers for promising ideas that might not have the experimental validation expected in a full paper.  **These papers will receive the same presentation and discussion time as full papers, in order to focus the workshop on novel, but relatively unexplored, ideas.**  To submit a new ideas paper, simply submit a paper of 4 or fewer pages.
 
 Authors should use the ACM proceedings template https://www.acm.org/publications/proceedings-template with the sigconf option.
 
