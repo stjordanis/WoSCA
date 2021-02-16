@@ -35,7 +35,12 @@ Co-chairs:
 * Alex Groce, Northern Arizona University
 
 Program committee:
-TBD
+* Elvira Albert, Universidad Complutense de Madrid
+* Neville Grech, University of Athens and University of Malta
+* Bo Jiang, Beihang University
+* Hakjoo Oh, Korea University
+* Valentin Wüstholz, ConsenSys
+* TBD
 
 ----------------------------------------
 
