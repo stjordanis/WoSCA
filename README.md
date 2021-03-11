@@ -48,7 +48,7 @@ Program committee:
 
 Papers should be submitted in ACM Conference format, and are limited to 8 pages, including references. Papers can be submitted via [EasyChair](https://easychair.org/conferences/?conf=wosca21). Submission is not blinded. We particularly welcome papers focused on practical, open source tools for contract analysis.
 
-All authors should use the official “ACM Master article template”, which can be obtained from the ACM Proceedings Template pages ( https://www.acm.org/publications/proceedings-template ). Latex users should use the “sigconf” option as well as “review” (to produce line numbers for easy reference by the reviewers). To that end, the following latex code can be placed at the start of the latex document:
+All authors should use the official “ACM Master article template”, which can be obtained from the [ACM Proceedings Template pages](https://www.acm.org/publications/proceedings-template). Latex users should use the “sigconf” option as well as “review” (to produce line numbers for easy reference by the reviewers). To that end, the following latex code can be placed at the start of the latex document:
 
 \documentclass[sigconf,review]{acmart}
 
